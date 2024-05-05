@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+Sinhala');
+
+/* Hide scroll bar and margins */
+body {
+	margin: 0px;
+	overflow: hidden;
+	background-color: rgba(0,0,0,1);
+}
